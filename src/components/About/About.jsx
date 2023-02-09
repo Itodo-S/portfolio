@@ -89,7 +89,12 @@ const About = () => {
             >
               <ul>
                 <li>
-                  <span>May 2022 - PRESENT</span>
+                  <span>January 2023 - PRESENT</span>
+                  <br />
+                  Frontend Developer at Cantant
+                </li>
+                <li>
+                  <span>May 2022 - December 2022</span>
                   <br />
                   Frontend Developer at Fundhill
                 </li>
