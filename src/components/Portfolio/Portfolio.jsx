@@ -10,14 +10,18 @@ const Portfolio = () => {
 
         <div className="work-list">
           <div className="work">
-            <img src={assets.showcase} alt="work" />
+            <img src={assets.cantant} alt="work" />
             <div className="layer">
-              <h3>An Information Site</h3>
+              <h3>Cantant - Smarter Bookkeeping</h3>
               <p>
-                This site gives you Information about available services and
-                products at fundhill
+                Cantant: All-in-one cashflow manager for informed business
+                decisions. Simplify bookkeeping and gain valuable insights.
               </p>
-              <a href="https://fundhill-s.vercel.app/" target="_blank">
+              <a
+                href="https://play.google.com/store/apps/details?id=com.cantantmobile&hl=en&gl=US"
+                target="_blank"
+                rel="noreferrer"
+              >
                 <FaExternalLinkAlt />
               </a>
             </div>
@@ -31,7 +35,11 @@ const Portfolio = () => {
                 This is a microfinance bank app which can be used to save and
                 transfer money. Providing financial services
               </p>
-              <a href="https://fundhillmvp.netlify.app/" target="_blank">
+              <a
+                href="https://fundhillmvp.netlify.app/"
+                target="_blank"
+                rel="noreferrer"
+              >
                 <FaExternalLinkAlt />
               </a>
             </div>
@@ -45,13 +53,17 @@ const Portfolio = () => {
                 This app provide Shopping services to it's users, and also helpe
                 them to locate supermarket colse to them. STILL IN PRODUCTION
               </p>
-              <a href="https://warta-cart.vercel.app/" target='_blank'>
+              <a
+                href="https://warta-cart.vercel.app/"
+                target="_blank"
+                rel="noreferrer"
+              >
                 <FaExternalLinkAlt />
               </a>
             </div>
           </div>
         </div>
-        <a href="#" className="btn">
+        <a href="/" className="btn">
           See More
         </a>
       </div>
