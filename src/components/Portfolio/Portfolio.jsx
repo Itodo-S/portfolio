@@ -28,15 +28,12 @@ const Portfolio = () => {
           </div>
 
           <div className="work">
-            <img src={assets.webdev} alt="work" />
+            <img src={assets.jaris} alt="work" />
             <div className="layer">
-              <h3>A Micro-finance Bank App</h3>
-              <p>
-                This is a microfinance bank app which can be used to save and
-                transfer money. Providing financial services
-              </p>
+              <h3>Biology Centre</h3>
+              <p>Jaris: A Computational Biology Centre</p>
               <a
-                href="https://fundhillmvp.netlify.app/"
+                href="https://jarisresearch.com/"
                 target="_blank"
                 rel="noreferrer"
               >

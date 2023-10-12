@@ -6,6 +6,7 @@ import microfinance from "./microfinance.jpg";
 import showcase from "./showcase.jpg";
 import webdev from "./webdev.jpg";
 import cantant from "./Cantant.png";
+import jaris from "./jaris-logo2.jpg";
 
 const assets = {
   header_image,
@@ -16,6 +17,7 @@ const assets = {
   showcase,
   webdev,
   cantant,
+  jaris,
 };
 
 export default assets;
